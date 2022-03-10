@@ -1,0 +1,4 @@
+324CA_Ciorceanu_Andrei_Razvan
+  
+	Implementarea temei consta in parcurgerea formatului si atunci cand intalnim operatoul "%" se trateaza cazurile prezentate in instructiunea switch si anume: 'c' 'x' 'd' 's' 'u',respectiv '%'. In fiecare caz am luat o variabila deplasament pentru a tine cont de deplasare si de dimensiune,unde am si folosit o functie itoa pentru transformarea int urile in string uri si transformarile de baze.
+	Functia itoa a fost implementata de pe site ul https://www.techiedelight.com/implement-itoa-function-in-c/ la care am facut mici modifica pentru a se adapta cazurilor problemei,iar la sfarsit afisarea este facuta folosind functia deja implementata write_stdout.
